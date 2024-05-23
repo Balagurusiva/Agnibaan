@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+    text-decoration: none;
+}
+
+a{
+    @apply text-[#5b5b5b] hover:text-green-600 text-[14px] font-bold font-poppins;
+    text-decoration: none;
+    
+}
+
